@@ -1,3 +1,5 @@
+### [Preview Link](https://v4voloshyn.github.io/json-placeholder-api-test/)
+
 # Task requirements
 
 - Use this API (https://jsonplaceholder.typicode.com/) for your calls.
